@@ -1,0 +1,57 @@
+{
+    "book_title": "Leo's Big Roar",
+    "description": "A charming story of a lion cub's determination to make his pride proud.",
+    "date_created": "2024-02-28",
+    "pages": [
+        {
+        "page_index": 1,
+        "page_title": "Leo's Dream",
+        "page_content": "Leo, the lion cub, wanted to make his pride proud."
+        },
+        {
+        "page_index": 2,
+        "page_title": "Practice Makes Perfect",
+        "page_content": "He practiced his roar every day in the tall grass."
+        },
+        {
+        "page_index": 3,
+        "page_title": "Impressing His Siblings",
+        "page_content": "His siblings watched him, impressed by his determination."
+        },
+        {
+        "page_index": 4,
+        "page_title": "Adventures Await",
+        "page_content": "Leo and his friends explored the savanna, searching for adventures."
+        },
+        {
+        "page_index": 5,
+        "page_title": "Helping Others",
+        "page_content": "Leo helped a lost animal find its way home."
+        },
+        {
+        "page_index": 6,
+        "page_title": "Bringing Joy",
+        "page_content": "He played with his pride, bringing laughter to everyone."
+        },
+        {
+        "page_index": 7,
+        "page_title": "Courage in the Face of Danger",
+        "page_content": "When danger approached, Leo bravely protected his family."
+        },
+        {
+        "page_index": 8,
+        "page_title": "Proud Father",
+        "page_content": "His father smiled proudly, seeing Leo's bravery and kindness."
+        },
+        {
+        "page_index": 9,
+        "page_title": "Under the Starry Sky",
+        "page_content": "As the stars twinkled above, Leo knew he had made his pride proud."
+        },
+        {
+        "page_index": 10,
+        "page_title": "Leo's Biggest Roar",
+        "page_content": "With a big smile, Leo let out his biggest roar yet!"
+        }
+    ]
+}
